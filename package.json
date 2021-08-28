@@ -1,0 +1,22 @@
+{
+  "name": "servidor-ftp-node.js",
+  "version": "1.0.0",
+  "description": "Servidor de tranferência de arquivo usando o protocolo http",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Douglasghs/Servidor-FTP-NODE.JS.git"
+  },
+  "author": "Douglas Ruan (DouglasGhs_)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Douglasghs/Servidor-FTP-NODE.JS/issues"
+  },
+  "homepage": "https://github.com/Douglasghs/Servidor-FTP-NODE.JS#readme",
+  "dependencies": {
+    "ftpd.js": "^0.6.1"
+  }
+}
